@@ -8,7 +8,7 @@
 ## Objectif du projet
 Construire une architecture complète, du déploiement à la mise en place, incluant Strapi, React, Kafka, des objets connectés et une communication via une architecture événementielle.
 
-## Arborescence du dépôt Git
+## Arborescence de notre projet
 
 ```
 .
